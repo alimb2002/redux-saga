@@ -1,10 +1,10 @@
 import "./App.css";
-import Counter from "./components/counter";
+import Posts from "./components/Posts";
 
 function App() {
   return (
     <main>
-      <Counter />
+      <Posts />
     </main>
   );
 }
